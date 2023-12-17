@@ -1,0 +1,40 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32c6",
+    "idf.customExtraPaths": "/Users/panagiotesskarbeles/.espressif/tools/xtensa-esp-elf-gdb/12.1_20221002/xtensa-esp-elf-gdb/bin:/Users/panagiotesskarbeles/.espressif/tools/riscv32-esp-elf-gdb/12.1_20221002/riscv32-esp-elf-gdb/bin:/Users/panagiotesskarbeles/.espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin:/Users/panagiotesskarbeles/.espressif/tools/xtensa-esp32s2-elf/esp-12.2.0_20230208/xtensa-esp32s2-elf/bin:/Users/panagiotesskarbeles/.espressif/tools/xtensa-esp32s3-elf/esp-12.2.0_20230208/xtensa-esp32s3-elf/bin:/Users/panagiotesskarbeles/.espressif/tools/riscv32-esp-elf/esp-12.2.0_20230208/riscv32-esp-elf/bin:/Users/panagiotesskarbeles/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/panagiotesskarbeles/.espressif/tools/cmake/3.24.0/CMake.app/Contents/bin:/Users/panagiotesskarbeles/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230419/openocd-esp32/bin:/Users/panagiotesskarbeles/.espressif/tools/ninja/1.10.2:/Users/panagiotesskarbeles/.espressif/tools/esp-rom-elfs/20230320",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/panagiotesskarbeles/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230419/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/Users/panagiotesskarbeles/.espressif/tools/esp-rom-elfs/20230320/"
+    },
+    "idf.espIdfPath": "/Users/panagiotesskarbeles/esp/esp-idf",
+    "idf.espAdfPath": "/Users/panagiotesskarbeles/esp/esp-adf",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-ftdi.cfg"
+    ],
+    "idf.port": "/dev/cu.usbserial-14410",
+    "idf.pythonBinPath": "/Users/panagiotesskarbeles/.espressif/python_env/idf5.1_py3.11_env/bin/python",
+    "idf.toolsPath": "/Users/panagiotesskarbeles/.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "stdint.h": "c",
+        "esp_err.h": "c",
+        "jpeg_decoder.h": "c",
+        "decode_jpg.h": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "random": "c",
+        "functional": "c",
+        "regex": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "freertos.h": "c",
+        "sdkconfig.h": "c",
+        "esp_lcd_types.h": "c",
+        "lcd_types.h": "c",
+        "esp_assert.h": "c",
+        "soc_caps.h": "c",
+        "clk_tree_defs.h": "c"
+    }
+}
